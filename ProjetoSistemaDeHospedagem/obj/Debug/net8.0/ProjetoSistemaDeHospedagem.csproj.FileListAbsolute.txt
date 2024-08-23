@@ -1,0 +1,14 @@
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/bin/Debug/net8.0/ProjetoSistemaDeHospedagem
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/bin/Debug/net8.0/ProjetoSistemaDeHospedagem.deps.json
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/bin/Debug/net8.0/ProjetoSistemaDeHospedagem.runtimeconfig.json
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/bin/Debug/net8.0/ProjetoSistemaDeHospedagem.dll
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/bin/Debug/net8.0/ProjetoSistemaDeHospedagem.pdb
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ProjetoSistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ProjetoSistemaDeHospedagem.AssemblyInfoInputs.cache
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ProjetoSistemaDeHospedagem.AssemblyInfo.cs
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ProjetoSistemaDeHospedagem.csproj.CoreCompileInputs.cache
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ProjetoSistemaDeHospedagem.dll
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/refint/ProjetoSistemaDeHospedagem.dll
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ProjetoSistemaDeHospedagem.pdb
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ProjetoSistemaDeHospedagem.genruntimeconfig.cache
+/home/trajano/Documents/dotnet/desafio_2/ProjetoSistemaDeHospedagem/obj/Debug/net8.0/ref/ProjetoSistemaDeHospedagem.dll
